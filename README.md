@@ -8,8 +8,8 @@
 <br />
 
 
-[steam]: https://bit.ly/3rnPjtr
-[youtube]: https://www.youtube.com/channel/UCFphhaaOwAQ0J3Ii2XqrplQ
+[steam]: https://steamcommunity.com/cxnturyworld
+[youtube]: https://www.youtube.com/channel/AbbraAdikya
 [instagram]: https://instagram.com/abbraadikya
 [discord]: https://discord.gg/wh88AD3fsy
 
