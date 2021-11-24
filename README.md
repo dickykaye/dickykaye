@@ -1,4 +1,4 @@
-## Hi there, I'm Kaye
+## Hi there
 
 ### Social Media:
 [<img align="left" alt="1" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
