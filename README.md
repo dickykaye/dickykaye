@@ -8,7 +8,7 @@
 <br />
 
 
-[steam]: https://steamcommunity.com/id/cxnturyworld
+[steam]: https://steamcommunity.com/id/theryc
 [youtube]: https://www.youtube.com/channel/AbbraAdikya
 [instagram]: https://instagram.com/abbraadikya
 [discord]: https://discord.gg/wh88AD3fsy
