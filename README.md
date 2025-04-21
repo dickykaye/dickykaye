@@ -11,5 +11,5 @@
 [steam]: https://steamcommunity.com/id/theryc
 [youtube]: https://www.youtube.com/channel/AbbraAdikya
 [instagram]: https://instagram.com/abbraadikya
-[discord]: https://discord.gg/wh88AD3fsy
+[discord]: https://discord.gg/n7mQY9HKep
 
